@@ -1,0 +1,16 @@
+BayesDel_addAF_pred
+BayesDel_noAF_pred
+ClinPred_pred
+DEOGEN2_pred
+FATHMM_pred
+LIST_S2_pred
+M_CAP_pred
+MetaLR_pred
+MetaRNN_pred
+MetaSVM_pred
+MutationAssessor_pred
+MutationTaster_pred
+PROVEAN_pred
+PrimateAI_pred
+SIFT4G_pred
+fathmm_MKL_coding_pred
