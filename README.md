@@ -1,6 +1,6 @@
-# TransSNP
+# MVFormer
 # 1. Description
-TransSNP is a method to predict the pathogenicity of missense variants using gated transformers. This method first uses the tokenization-embedding paradigm in natural language processing to encode features of missense variants and convert features to token-level embeddings. Then TransSNP converts token-level embeddings to sample-level embeddings by a gated transformer model and uses a classifier to generate final pathogenicity scores. 
+MVFormer is a method to predict the pathogenicity of missense variants using gated transformers. This method first uses the tokenization-embedding paradigm in natural language processing to encode features of missense variants and convert features to token-level embeddings. Then TransSNP converts token-level embeddings to sample-level embeddings by a gated transformer model and uses a classifier to generate final pathogenicity scores. 
 # 2. Train model
 To train TransSNP for pathogenicity prediction, run the following command:  
 `python ./train_model.py './data/clinvar_2022_missense' './data/exovar'`  
